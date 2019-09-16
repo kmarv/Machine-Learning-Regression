@@ -1,2 +1,2 @@
-# machine learning regression algorithms
+# Machine Learning Regression 
  the repository contains  4 regression algorithms that have been  apllied to different datasets inorder to make predictions depending in the data set. The algorithms used include linear regression ,  multilinear regression, support vector regression and the polynomial regression.   The prediction results are further visualized for a better understanding of the algorithms and how they work
